@@ -7,6 +7,9 @@ Students currently experience frustration with the lack of transparency and comm
 ## Vision:
 To create an efficient and transparent process for managing and tracking maintenance requests, allowing students to stay informed and plan their schedules around scheduled repairs. RepairNet streamlines interaction between students and the facilities department by leveraging the university’s existing infrastructure.
 
+## SOCIALS: 
+## FOLLOW US ON INSTA:  https://www.instagram.com/repairnet101/ 
+
 ## Presentation:
 https://docs.google.com/presentation/d/1p7RaAJvlhozaiZNgnl1EAkxvTi9vuVQrDb1tgnXi__M/edit?usp=sharing
 
@@ -84,3 +87,15 @@ https://docs.google.com/presentation/d/1p7RaAJvlhozaiZNgnl1EAkxvTi9vuVQrDb1tgnXi
 
 - **Value Proposition:**  
   Streamlines workflow for facilities staff, allowing them to manage and prioritize requests efficiently.
+
+## Testing and Results
+We will use these mockups and test them with Brandeis students to gather feedback on usability, intuitiveness, and layout. Testing would include one-on-one usability sessions where users perform tasks such as submitting a request and tracking it on the dashboard. Insights gained would inform design refinements as we move forward.
+
+## Key Testing Goals:
+Usability Testing: Essentially we will measure how easily students can navigate the system, submit a request, and track its status. Assess whether the dashboard is intuitive and clear.
+Feedback Collection: We plan to use a combination of surveys and interviews to gather feedback on the most useful features, desired improvements, and any areas of confusion.
+
+Early Results:
+Based on initial feedback from students, and their response to our product we will analyze the demand. We believe notifications and the tracking dashboard were identified as the most critical features. Some excited users of the current system suggested additional notification types, such as text message alerts.
+
+
