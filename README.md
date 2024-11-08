@@ -7,49 +7,80 @@ Students currently experience frustration with the lack of transparency and comm
 ## Vision:
 To create an efficient and transparent process for managing and tracking maintenance requests, allowing students to stay informed and plan their schedules around scheduled repairs. RepairNet streamlines interaction between students and the facilities department by leveraging the university’s existing infrastructure.
 
-Features:
-Brandeis Single Sign-On Integration
-Description: Allows students to use their existing Brandeis credentials to log into RepairNet, eliminating the need for separate logins and reducing friction in the user experience.
+## Presentation:
+https://docs.google.com/presentation/d/1p7RaAJvlhozaiZNgnl1EAkxvTi9vuVQrDb1tgnXi__M/edit?usp=sharing
 
-Value Proposition: Saves time, provides ease of access, and increases adoption rates due to convenience.
+## Features:
 
-Mockup Visual:
+### 1. Brandeis Single Sign-On Integration
 
+- **Description:**  
+  Allows students to use their existing Brandeis credentials to log into RepairNet, eliminating the need for separate logins and reducing friction in the user experience.
 
-Facilities Request Submission
+- **Value Proposition:**  
+  Saves time, provides ease of access, and increases adoption rates due to convenience.
 
-Description: Students can submit requests directly through the platform, detailing the issue they need fixed (e.g., plumbing, electrical, HVAC).
-
-Value Proposition: Simplifies the process of reporting issues, ensuring requests are accurately documented and submitted.
-
-Mockup Visual:
-
-
-
-Request Tracking Dashboard
-
-Description: A user-friendly dashboard where students can monitor the status of their requests, including whether they’ve been assigned to maintenance staff, in progress, or completed. It would have request id, category, status, priority, description, arrival, location and facilities management person in charge’s name.
-
-Value Proposition: Provides transparency, reduces uncertainty, and allows students to plan around maintenance schedules.
-
-Mockup Visual:
-
-
-Notifications and Alerts
-Description: Automated notifications sent to students when their requests have been updated, including when a maintenance visit has been scheduled.
-Value Proposition: Keeps students informed and allows them to plan their day around upcoming maintenance visits, reducing interruptions.
-
-Feedback Mechanism
-Description: After a request has been resolved, students can provide feedback on the service they received, allowing facilities teams to improve based on student input.
-
-Value Proposition: Enables continuous improvement of the service by incorporating user feedback and ensuring quality maintenance experiences.
-
-Mockup Visual:
+- **Mockup Visual:**  
+  ![Request Tracking Dashboard Mockup](./RepairNet%20Facilities%20request%20Tracker/1.png)
 
 
 
+### 2. Facilities Request Submission
 
-Admin Portal for Facilities Team
-Description: A backend portal for the facilities team to manage requests, assign tasks, and communicate with students.
-Value Proposition: Streamlines workflow for facilities staff, allowing them to manage and prioritize requests efficiently.
+- **Description:**  
+  Students can submit requests directly through the platform, detailing the issue they need fixed (e.g., plumbing, electrical, HVAC).
 
+- **Value Proposition:**  
+  Simplifies the process of reporting issues, ensuring requests are accurately documented and submitted.
+
+- **Mockup Visual:**  
+  ![Facilities Request Submission Mockup](./RepairNet%20Facilities%20request%20Tracker/2.png)
+
+---
+
+### 3. Request Tracking Dashboard
+
+- **Description:**  
+  A user-friendly dashboard where students can monitor the status of their requests, including whether they’ve been assigned to maintenance staff, are in progress, or completed. It includes fields for request ID, category, status, priority, description, arrival date, location, and the facilities management person in charge.
+
+- **Value Proposition:**  
+  Provides transparency, reduces uncertainty, and allows students to plan around maintenance schedules.
+
+- **Mockup Visual:**  
+  ![Request Tracking Dashboard Mockup](./RepairNet%20Facilities%20request%20Tracker/3.png)
+
+---
+
+### 4. Notifications and Alerts
+
+- **Description:**  
+  Automated notifications sent to students when their requests have been updated, including when a maintenance visit has been scheduled.
+
+- **Value Proposition:**  
+  Keeps students informed and allows them to plan their day around upcoming maintenance visits, reducing interruptions.
+
+- **Mockup Visual:**  
+  ![Notifications and Alerts Mockup](./RepairNet%20Facilities%20request%20Tracker/4.png)
+
+---
+
+### 5. Feedback Mechanism
+
+- **Description:**  
+  After a request has been resolved, students can provide feedback on the service they received, allowing facilities teams to improve based on student input.
+
+- **Value Proposition:**  
+  Enables continuous improvement of the service by incorporating user feedback and ensuring quality maintenance experiences.
+
+- **Mockup Visual:**  
+  ![Feedback Mechanism Mockup](./RepairNet%20Facilities%20request%20Tracker/5.png)
+
+---
+
+### 6. Admin Portal for Facilities Team
+
+- **Description:**  
+  A backend portal for the facilities team to manage requests, assign tasks, and communicate with students.
+
+- **Value Proposition:**  
+  Streamlines workflow for facilities staff, allowing them to manage and prioritize requests efficiently.
