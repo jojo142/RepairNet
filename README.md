@@ -7,8 +7,8 @@ Students currently experience frustration with the lack of transparency and comm
 ## Vision:
 To create an efficient and transparent process for managing and tracking maintenance requests, allowing students to stay informed and plan their schedules around scheduled repairs. RepairNet streamlines interaction between students and the facilities department by leveraging the university’s existing infrastructure.
 
-## SOCIALS: 
-## FOLLOW US ON INSTA:  https://www.instagram.com/repairnet101/ 
+### SOCIALS: 
+- FOLLOW ON INSTA:  https://www.instagram.com/repairnet101/ 
 
 ## Presentation:
 https://docs.google.com/presentation/d/1p7RaAJvlhozaiZNgnl1EAkxvTi9vuVQrDb1tgnXi__M/edit?usp=sharing
