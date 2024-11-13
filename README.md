@@ -1,5 +1,6 @@
 # Landing Page: https://repairnet.netlify.app
 ### Insta: https://www.instagram.com/repairnet101/
+<img width="1310" alt="Screenshot 2024-11-13 at 12 16 55 PM" src="https://github.com/user-attachments/assets/56229db1-a6fd-4add-a8a5-26c94ee9f38d">
 
 ## Product Summary:
 RepairNet is a facilities request tracker designed for Brandeis University students. It allows students to submit and monitor their maintenance requests seamlessly through the university’s housing portal, using their Brandeis login credentials. This tool aims to improve the efficiency of facilities management by providing students with real-time updates on their requests and scheduled maintenance visits in order to enhance student life experience for all the college students living on campus.
